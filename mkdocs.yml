@@ -6,9 +6,7 @@ edit_uri: blob/main/docs/
 
 nav:
   - Main page: index.md
-  - Veckoschemat: veckoschemat.md
-  - Böcker: boecker.md
-  - Vanliga frågor: vanliga_fraagor.md
+  - Kapitel: kapitel/README.md
 
 theme:
   name: material
