@@ -7,7 +7,7 @@ tags:
 
 # 3D skrivingskurs
 
-![3D skrivingskurs logo](logo/3d_skrivingskurs_logo.png)
+![3D skrivingskurs logo](logo/3d_skrivningskurs_logo.png)
 
 Den här kurs är en kurs
 bland den [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
