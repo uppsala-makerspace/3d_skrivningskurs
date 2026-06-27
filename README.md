@@ -1,2 +1,3 @@
-# 3d_skrivnings_kurs
-Kurs i 3D skrivning
+# openscad_kurs
+
+Kurs i OpenSCAD
