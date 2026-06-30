@@ -13,9 +13,9 @@ if [ ! -d $build_folder ]; then
 fi
 
 
-cp ../kapitel/foreword/*.*                                 $build_folder; mv $build_folder/README.md $build_folder/README_00.md
-cp ../kapitel/0_install_and_setup_prusa_slicer/*.*         $build_folder; mv $build_folder/README.md $build_folder/README_01.md
-cp ../kapitel/1_print/*.*                                  $build_folder; mv $build_folder/README.md $build_folder/README_02.md
+cp ../chapters/foreword/*.*                                 $build_folder; mv $build_folder/README.md $build_folder/README_00.md
+cp ../chapters/0_install_and_setup_prusa_slicer/*.*         $build_folder; mv $build_folder/README.md $build_folder/README_01.md
+cp ../chapters/1_print/*.*                                  $build_folder; mv $build_folder/README.md $build_folder/README_02.md
 
 cp book_style.theme $build_folder
 

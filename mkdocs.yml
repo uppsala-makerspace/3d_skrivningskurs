@@ -7,12 +7,12 @@ edit_uri: blob/main/docs/
 nav:
   - Main page: index.md
   - Kapitel:
-    - Översiktet: kapitel/README.md
-    - 0. Installera och konfigurera 3D skrivaren:  kapitel/0_install_and_setup_prusa_slicer/README.md
-    - 1. Att skriva ut: kapitel/1_print/README.md
+    - Översiktet: chapters/README.md
+    - 0. Installera och konfigurera 3D skrivaren:  chapters/0_install_and_setup_prusa_slicer/README.md
+    - 1. Att skriva ut: chapters/1_print/README.md
   - Misc:
     - Att hjälpa med: CONTRIBUTING.md
-    - Kontakta oss: kontakta_oss.md
+    - Kontakta oss: contact_us.md
 
 theme:
   name: material
