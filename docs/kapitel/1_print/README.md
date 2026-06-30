@@ -81,4 +81,11 @@ Klicka på 'Upload and print' ('ladda up och skriv ut').
 ![Klicka på 'Upload and print'](send_gcode_to_printer_host.png)
 
 Nu bör 3D skrivaren sätter sig igång.
-Bra, du har skrivit ut din första sak!
+
+Igen, regeln är att, under din första skrivning,
+måste du kollar på skrivaren hela tiden.
+Målet är att du ser hur en vanligt/lyckande skrivning ser ut.
+
+Så, vad ser du? Vad är det 3D skrivaren gör först? Och efter detta?
+
+Om allt lyckades: grattis, du har skrivit ut din första sak!
