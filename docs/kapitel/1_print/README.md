@@ -66,5 +66,19 @@ Om du förstår reglerna, klicka på 'Send to printer'.
 
 ![Klicka på 'Slice now'](1_click_slice_now.png)
 
-Nu har du skrivit ut din första skrivning!
+Nu har du 'slicat' (vad den än är) din första model.
 
+![Slicingen är färdigt](1_slicing_done.png)
+
+Klick nu på 'Send to print' ('Schick till skrivaren')
+i hörnet botten nere:
+
+![Klick på 'Send to print'](1_send_to_printer.png)
+
+Du blir frågat hur skrivaren måste kallas din 3D tryck.
+Klicka på 'Upload and print' ('ladda up och skriv ut').
+
+![Klicka på 'Upload and print'](send_gcode_to_printer_host.png)
+
+Nu bör 3D skrivaren sätter sig igång.
+Bra, du har skrivit ut din första sak!
