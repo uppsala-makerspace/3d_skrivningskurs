@@ -3,9 +3,15 @@
 För att skriva ut, behöver du en STL fil av din ritning.
 I båda Blender och OpenSCAD kan du exportera din ritning till STL.
 
-![Export to STL in Blender](1_blender_export_to_stl.png)
+I Blender, klicka 'File | Export | Stl (.stl)'
+för att exporter din model till en STL fil.
 
-![Export to STL in OpenSCAD](1_openscad_export_to_stl.png)
+![klicka 'File | Export | Stl (.stl)'](1_blender_export_to_stl.png)
+
+I OpenSCAD, klicka 'File | Export | Export as STL'
+för att exporter din model till en STL fil.
+
+![klicka 'File | Export | Export as STL'](1_openscad_export_to_stl.png)
 
 ## 1.1. Att ladda en STL fil in PrusaSlicer
 
