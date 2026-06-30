@@ -86,6 +86,19 @@ Igen, regeln är att, under din första skrivning,
 måste du kollar på skrivaren hela tiden.
 Målet är att du ser hur en vanligt/lyckande skrivning ser ut.
 
-Så, vad ser du? Vad är det 3D skrivaren gör först? Och efter detta?
+Så, vad ser du att skrivaren gör först?
+
+Kolla på skärmen av 3D skrivaren.
+Hur länge ska din 3D tryck tar?
+
+![Skärm av skrivaren](1_printer_screen.jpg)
+
+På värmebädden (plattan där skriving tar plats på),
+på framsida finns en symbol av en fingeravtryck.
+Vad tror du att den betyder?
+
+![Värmebädden har symboler av fingeravtryckar](1_heating_bed_front_left.jpg)
 
 Om allt lyckades: grattis, du har skrivit ut din första sak!
+
+![Den utskrivna kuben](1_printed_cube.jpg)
