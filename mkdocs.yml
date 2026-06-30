@@ -7,6 +7,8 @@ edit_uri: blob/main/docs/
 nav:
   - Main page: index.md
   - Kapitel: kapitel/README.md
+    - 0. Installera och konfigurera 3D skrivaren:  kapitel/0_install_and_setup_prusa_slicer/README.md
+    - 1. Att skriva ut: kapitel/1_print/README.md
 
 theme:
   name: material
