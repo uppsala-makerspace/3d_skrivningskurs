@@ -9,6 +9,9 @@ nav:
   - Kapitel: kapitel/README.md
     - 0. Installera och konfigurera 3D skrivaren:  kapitel/0_install_and_setup_prusa_slicer/README.md
     - 1. Att skriva ut: kapitel/1_print/README.md
+  - Misc:
+    - Att hjälpa med: CONTRIBUTING.md
+    - Kontakta oss: kontakta_oss.md
 
 theme:
   name: material

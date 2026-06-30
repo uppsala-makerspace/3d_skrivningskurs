@@ -1,28 +1,27 @@
-# Contributing
+# Att hjälpa med
 
-Thanks for considering to contribute and reading this!
+Tack för att du funderar på att bidra och läsa detta!
 
-You can contribute by:
+Du kan bidra genom att:
 
-- Fixing typos, clarifying sentences
-- Scheduling yourself for an event
+- Rätta stavfel, förtydliga meningar
 
-You can do so by:
+Du kan göra det genom att:
 
-- For questions, you can [create an issue](https://github.com/uppsala-makerspace/openscad_kurs/issues)
-- Textual changes go via pull requests.
-  Whatever these are, these are created when clicking the 'Edit page' icon
-  located at the top-right of each page.
+- För frågor kan du [skapa ett ärende](https://github.com/uppsala-makerspace/3d_skrivningskurs/issues)
 
-???- question "Where is the 'Edit page' icon?"
+Oavsett vad dessa är skapas de när du klickar på ikonen
+'Edit page' ('Redigera sida') som finns längst upp till höger på varje sida.
 
-    The 'Edit page' icon is
-    located at the top-right of each page.
+???- fråga "Var är ikonen 'Edit page'?"
 
-    ![The 'Edit page' icon](edit_page_icon.png)
+    Ikonen 'Edit page' finns längst upp till höger på varje sida.
 
-There will be a tendency to accept your contributions
-when it helps achieve this website's goal,
-which is to help people understand what the Saturday courses are.
+    ![Ikonen 'Edit page'](edit_page_icon.png)
 
-This GitHub repository follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+Det kommer att finnas en tendens att acceptera dina bidrag
+när det hjälper till att uppnå denna webbplats mål,
+som är att hjälpa människor att förstå hur att attvända 3D skrivarna
+hos Uppsala Makerspace.
+
+Den här sida följer [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
