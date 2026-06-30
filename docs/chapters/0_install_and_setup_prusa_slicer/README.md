@@ -12,10 +12,10 @@ eller går direct till
 Där kann du ladda ner filerna för ditt favorit operativsystem.
 
 ![Download Linux Flatpak](download_linux_flatpak.png)
-![Download MacOS .dmg](download_mac_dmg.png)
-![Download Windows .exe](download_windows_exe.png)
 
 Starta filen för att installera PrusaSlicer.
+
+\pagebreak
 
 ## 0.2. Att starta PrusaSlicer
 
@@ -28,6 +28,8 @@ Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
 ('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
 
 ![Klicka på 'Finish'](finish_configuration_wizard.png)
+
+\pagebreak
 
 ## 0.3. Att konfigurera PrusaSlicer
 
@@ -46,21 +48,31 @@ I en webbläsare, söka 'Uppsala Makerspace wiki 3D printing'
 eller går direct till
 [`https://wiki.uppsalamakerspace.se/3D-printing`](https://wiki.uppsalamakerspace.se/3D-printing).
 
+\pagebreak
+
 Ladda ner den senaste konfigurationsfilen.
 
 ![Ladda ner den senaste konfigurationsfilen](download_config_files_annotated.png)
+
+\pagebreak
 
 I PrusaSlicer, klicka 'File | Import | Import Config Bundle'.
 
 ![Klicka 'File | Import | Import Config Bundle'](select_import_config_bundle.png)
 
+\pagebreak
+
 Leta efter konfigurationsfilen och klicka på 'Open' ('Öppna').
 
 ![Leta efter konfigurationsfilen och klicka på 'Open'](select_config_file.png)
 
+\pagebreak
+
 Clicka på 'OK' om en fönster visar att allt har lyckats.
 
 ![Clicka på 'OK'](import_config_bundle_worked.png)
+
+\pagebreak
 
 Nu visar Prusa Slicer att vår 3D skrivaren kallade 'Venus' är tillgängligt.
 
