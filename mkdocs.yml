@@ -11,9 +11,16 @@ nav:
     - Översiktet: chapters/README.md
     - 0. Installera och konfigurera 3D skrivaren:  chapters/0_install_and_setup_prusa_slicer/README.md
     - 1. Att skriva ut: chapters/1_print/README.md
+    - Förord: chapters/foreword/README.md
   - Misc:
     - Att hjälpa med: CONTRIBUTING.md
+    - Beteendekod: CODE_OF_CONDUCT.md
     - Kontakta oss: contact_us.md
+    - Skripter: scripts/README.md
+
+not_in_nav: |
+  scripts/build/*.md
+  chapters/front_pages/*
 
 theme:
   name: material
