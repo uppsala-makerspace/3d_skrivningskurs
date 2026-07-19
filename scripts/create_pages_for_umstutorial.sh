@@ -46,8 +46,10 @@ sed -i "s/\pagebreak//g" ${generated_en}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-exit 
-
+################################################################################
+# Chapter 1
+################################################################################
+# Still 1 language
 # Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
 cp docs/chapters/1_print/README.md docs/chapters/1_print/generated_sv.md
 sed -i '/^---$/,/^---$/d' docs/chapters/1_print/generated_sv.md
