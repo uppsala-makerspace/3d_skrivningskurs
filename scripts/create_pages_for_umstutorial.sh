@@ -40,6 +40,9 @@ sed -i 's/^# .*$/# Att installera och konfigurera PrusaSlicer för vår Prusa 3D
 # Add an LK logo, with a link to the homepage, then an empty line
 sed -i "/^# .*$/ a [![3D printing course logo](3d_skrivningskurs_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
 sed -i "/^# .*$/ a [![3D skrivningskurs logo](3d_skrivningskurs_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
+sed -i "s/\\\\pagebreak//g" ${generated_en}
+sed -i "s/\\\\pagebreak//g" ${generated_sv}
+sed -i "s/\pagebreak//g" ${generated_en}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
