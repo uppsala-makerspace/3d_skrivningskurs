@@ -268,7 +268,7 @@ Tellus   |`10.0.1.103`
 Mars     |`10.0.1.104`
 Uranus   |`10.0.1.105`
 
-```
+```text
 PICTURE OF TYPING 10.0329842 IN BROWSER
 ```
 
@@ -280,7 +280,7 @@ PICTURE OF TYPING 10.0329842 IN BROWSER
 
     You will now see the website of your favorite 3D printer.
 
-```
+```text
 SCREENSHOT OF WEBSITE
 ```
 
@@ -295,7 +295,7 @@ SCREENSHOT OF WEBSITE
     At the website of your favorite 3D printer,
     you can see how long the print took.
 
-```
+```text
 SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
 ```
 
@@ -313,7 +313,7 @@ SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
 
     It is shown here:
 
-```
+```text
 SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
 ```
 
@@ -337,7 +337,7 @@ SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
     When the 3D print is loose, use **a tool** to push it off the 3D printer
     (i.e. do **not** use your hands).
 
-```
+```text
 PICTURE OF scraping the cube.
 ```
 

@@ -12,13 +12,10 @@ to export your model to an STL file.
 ![klicka 'File | Export | Stl (.stl)'](1_blender_export_to_stl.png)
 
 
-
-
 In OpenSCAD, click 'File | Export | Export as STL'
 to export your model to an STL file.
 
 ![klicka 'File | Export | Export as STL'](1_openscad_export_to_stl.png)
-
 
 
 ## 1.1. To load an STL file into PrusaSlicer
@@ -29,13 +26,9 @@ Start the program called PrusaSlicer.
 ![PrusaSlicer](1_prusaslicer.png)
 
 
-
-
 Click on 'File | Import | Import STL'.
 
 ![Klick på 'File | Import | Import STL'](1_click_file_import_import_stl.png)
-
-
 
 
 Select an STL file and click on 'Open'.
@@ -43,12 +36,9 @@ Select an STL file and click on 'Open'.
 ![Välja en STL fil och klicka på 'Open'](1_select_stl_file.png)
 
 
-
-
 Now you have loaded a cube into PrusaSlicer. It looks something like this:
 
 ![Kuben är laddat](1_cube_is_loaded.png)
-
 
 
 ## 1.2. Picking a 3D printer
@@ -62,12 +52,9 @@ this printer down here is called 'Merkurius'.
 ![Den här skrivare heter 'Merkurius'](1_merkurius.jpg)
 
 
-
-
 In PrusaSlicer, select the same 3D printer.
 
 ![välja samma 3D skrivare](1_select_printer.png)
-
 
 
 ## 1.4. Slicing
@@ -78,12 +65,9 @@ Klicka på 'Slice now'.
 ![Klicka på 'Slice now'](1_click_slice_now.png)
 
 
-
-
 Now the slicing is done.
 
 ![Slicingen är klart](1_slicing_done.png)
-
 
 
 ## 1.4. Printing
@@ -104,15 +88,11 @@ in the bottom-right corner:
 ![Klick på 'Send to print'](1_send_to_printer.png)
 
 
-
-
 You will be asked what the printer must be called for your 3D print.
 
 Click 'Upload and print' ('load up and print').
 
 ![Klicka på 'Upload and print'](send_gcode_to_printer_host.png)
-
-
 
 
 The 3D printer should now start working.
@@ -129,14 +109,11 @@ How long should your 3D print take?
 ![Skärm av skrivaren](1_printer_screen.jpg)
 
 
-
-
 On the heating bed (the plate where the printing takes place),
 on the front there is a symbol of a fingerprint.
 What do you think it means?
 
 ![Värmebädden har symboler av fingeravtryckar](1_heating_bed_front_left.jpg)
-
 
 
 ## 1.6. After printing
@@ -160,14 +137,14 @@ Tellus   |`10.0.1.103`
 Mars     |`10.0.1.104`
 Uranus   |`10.0.1.105`
 
-```
+```text
 PICTURE OF TYPING 10.0329842 IN BROWSER
 ```
 
 
 You will now see the website of your favorite 3D printer.
 
-```
+```text
 SCREENSHOT OF WEBSITE
 ```
 
@@ -175,7 +152,7 @@ SCREENSHOT OF WEBSITE
 At the website of your favorite 3D printer,
 you can see how long the print took.
 
-```
+```text
 SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
 ```
 
@@ -185,7 +162,7 @@ to less than 30 degrees celsius.
 
 It is shown here:
 
-```
+```text
 SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
 ```
 
@@ -198,7 +175,7 @@ Use a metal tool to poke at the bottom of your 3D print
 When the 3D print is loose, use **a tool** to push it off the 3D printer
 (i.e. do **not** use your hands).
 
-```
+```text
 PICTURE OF scraping the cube.
 ```
 
