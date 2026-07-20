@@ -49,9 +49,9 @@
 
     ???- ask "Where is the 'Edit page' icon?"
 
-    The 'Edit page' icon is located at the top right of every page.
+        The 'Edit page' icon is located at the top right of every page.
 
-    ![The 'Edit page' icon'](edit_page_icon.png)
+        ![The 'Edit page' icon'](edit_page_icon.png)
 
     There will be a tendency to accept your contributions
     when it helps achieve the goal of this site,
