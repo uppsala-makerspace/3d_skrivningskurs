@@ -7,6 +7,8 @@
     Du kan bidra genom att:
 
     - Rätta stavfel, förtydliga meningar
+    - Göra mig medveten om eventuella missuppfattningar
+    - Lägga till förslag på saker att lägga till
 
     Du kan göra det genom att:
 
@@ -35,10 +37,12 @@
     You can contribute by:
 
     - Correcting typos, clarifying sentences
+    - Making me aware of possible misconceptions
+    - Add suggestions for items to add
 
     You can do this by:
 
-    - For questions, you can [create an issue](https://github.com/uppsala-makerspace/3d_skrivningskurs/issues)
+    - You can [create an issue](https://github.com/uppsala-makerspace/3d_skrivningskurs/issues)
 
     Whatever these are, they are created when you click on the icon
     'Edit page' ('Edit page') which is located at the top right of every page.
