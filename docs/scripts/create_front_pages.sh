@@ -15,4 +15,7 @@ fi
 cp ../chapters/front_pages/*.* "${build_folder}"
 cd $build_folder || exit 42
 
-pandoc front_page_1.md -o ../../books/front_page_1.pdf
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"front_page_1.md\", output_file_prefix = \"front_page_1\")" || exit 42
+
+pandoc front_page_1_en.md -o ../../books/front_page_1_en.pdf
+pandoc front_page_1_sv.md -o ../../books/front_page_1_sv.pdf
