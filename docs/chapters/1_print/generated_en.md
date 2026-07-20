@@ -1,6 +1,6 @@
 # Installing and configuring PrusaSlicer for our 3D printers
 
-[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs/kurserna)
+[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs)
 
 
 To print, you need an STL file of your drawing.

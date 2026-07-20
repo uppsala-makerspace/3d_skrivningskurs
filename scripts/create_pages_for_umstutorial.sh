@@ -26,7 +26,7 @@ mkdocs_home_url="https://uppsala-makerspace.github.io/3d_skrivningskurs"
 local_folder_rel_path="docs/chapters/0_install_and_setup_prusa_slicer"
 local_folder_input_file="${local_folder_rel_path}/README.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_page_url}" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
@@ -52,7 +52,7 @@ sed -i '/^# .*$/G' ${generated_sv}
 local_folder_rel_path="docs/chapters/1_print"
 local_folder_input_file="${local_folder_rel_path}/README.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_page_url}" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
