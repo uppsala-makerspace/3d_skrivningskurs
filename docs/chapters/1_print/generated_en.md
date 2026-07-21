@@ -1,6 +1,6 @@
 # 3D printing
 
-[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs)
+[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs/chapters/1_print/)
 
 
 To print, you need an STL file of your drawing.

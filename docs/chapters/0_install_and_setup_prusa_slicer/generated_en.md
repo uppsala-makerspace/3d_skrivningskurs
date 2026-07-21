@@ -1,6 +1,6 @@
 # Installing and configuring PrusaSlicer for our 3D printers
 
-[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs)
+[![3D printing course logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs/chapters/0_install_and_setup_prusa_slicer)
 
 ## 0.1. Installing PrusaSlicer
 

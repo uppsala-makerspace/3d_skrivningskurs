@@ -1,6 +1,6 @@
 # Att 3D skriva
 
-[![3D skrivningskurs logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs)
+[![3D skrivningskurs logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs/chapters/1_print/)
 
 
 För att skriva ut, behöver du en STL fil av din ritning.
