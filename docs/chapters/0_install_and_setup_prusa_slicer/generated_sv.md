@@ -20,6 +20,7 @@ Där kann du ladda ner filerna för ditt favorit operativsystem.
 Starta filen för att installera PrusaSlicer.
 
 
+
 ## 0.2. Att starta PrusaSlicer
 
 
@@ -37,6 +38,7 @@ Nu startar PrusaSlicer. Om den visar den så-kallade 'Configuration Wizard'
 ('Konfigurations hjälpare'), klicka på 'Finish' ('Klar').
 
 ![Klicka på 'Finish'](finish_configuration_wizard.png)
+
 
 
 ## 0.3. Att konfigurera PrusaSlicer
@@ -59,9 +61,15 @@ eller går direct till
 [`https://wiki.uppsalamakerspace.se/3D-printing`](https://wiki.uppsalamakerspace.se/3D-printing).
 
 
+
+
+
+
 Ladda ner den senaste konfigurationsfilen.
 
 ![Ladda ner den senaste konfigurationsfilen](download_config_files_annotated.png)
+
+
 
 
 I PrusaSlicer, klicka 'File | Import | Import Config Bundle'.
@@ -69,14 +77,20 @@ I PrusaSlicer, klicka 'File | Import | Import Config Bundle'.
 ![Klicka 'File | Import | Import Config Bundle'](select_import_config_bundle.png)
 
 
+
+
 Leta efter konfigurationsfilen och klicka på 'Open' ('Öppna').
 
 ![Leta efter konfigurationsfilen och klicka på 'Open'](select_config_file.png)
 
 
+
+
 Clicka på 'OK' om en fönster visar att allt har lyckats.
 
 ![Clicka på 'OK'](import_config_bundle_worked.png)
+
+
 
 
 Nu visar PrusaSlicer att vår 3D skrivaren kallade 'Venus' är tillgängligt.

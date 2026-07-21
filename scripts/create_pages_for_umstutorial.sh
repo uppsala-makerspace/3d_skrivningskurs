@@ -18,6 +18,10 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
+# Download a script that is needed
+wget -N --no-if-modified-since https://raw.githubusercontent.com/uppsala-makerspace/loerdagskurser/refs/heads/main/scripts/replace_rel_url_by_abs_url.R -O scripts/replace_rel_url_by_abs_url.R
+
+
 # This will be the same for all generated pages
 mkdocs_home_url="https://uppsala-makerspace.github.io/3d_skrivningskurs"
 ################################################################################
@@ -61,8 +65,8 @@ sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
-sed -i 's/^# .*$/# Installing and configuring PrusaSlicer for our 3D printers/g' ${generated_en}
-sed -i 's/^# .*$/# Att installera och konfigurera PrusaSlicer för vår Prusa 3D skrivarna/g' ${generated_sv}
+sed -i 's/^# .*$/# 3D printing/g' ${generated_en}
+sed -i 's/^# .*$/# Att 3D skriva/g' ${generated_sv}
 # Add an LK logo, with a link to the homepage, then an empty line
 sed -i "/^# .*$/ a [![3D printing course logo](3d_skrivningskurs_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
 sed -i "/^# .*$/ a [![3D skrivningskurs logo](3d_skrivningskurs_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}

@@ -1,4 +1,4 @@
-# Att installera och konfigurera PrusaSlicer för vår Prusa 3D skrivarna
+# Att 3D skriva
 
 [![3D skrivningskurs logo](3d_skrivningskurs_5x_wider.png)](https://uppsala-makerspace.github.io/3d_skrivningskurs)
 
@@ -12,10 +12,13 @@ för att exporter din model till en STL fil.
 ![klicka 'File | Export | Stl (.stl)'](1_blender_export_to_stl.png)
 
 
+
+
 I OpenSCAD, klicka 'File | Export | Export as STL'
 för att exporter din model till en STL fil.
 
 ![klicka 'File | Export | Export as STL'](1_openscad_export_to_stl.png)
+
 
 
 ## 1.1. Att ladda en STL fil in PrusaSlicer
@@ -26,9 +29,13 @@ Starta programmet PrusaSlicer.
 ![PrusaSlicer](1_prusaslicer.png)
 
 
+
+
 Klick på 'File | Import | Import STL'.
 
 ![Klick på 'File | Import | Import STL'](1_click_file_import_import_stl.png)
+
+
 
 
 Välja en STL fil och klicka på 'Open'.
@@ -36,9 +43,12 @@ Välja en STL fil och klicka på 'Open'.
 ![Välja en STL fil och klicka på 'Open'](1_select_stl_file.png)
 
 
+
+
 Nu har du laddet en kub i PrusaSlicer. Den ser ut likadant som här:
 
 ![Kuben är laddat](1_cube_is_loaded.png)
+
 
 
 ## 1.2. Att välja en 3D skrivare
@@ -51,9 +61,12 @@ den här skrivare här nere heter 'Merkurius'.
 ![Den här skrivare heter 'Merkurius'](1_merkurius.jpg)
 
 
+
+
 I PrusaSlicer, väljer samma 3D skrivare.
 
 ![välja samma 3D skrivare](1_select_printer.png)
+
 
 
 ## 1.3. Att slica
@@ -65,9 +78,12 @@ Click 'Slice now'.
 ![Klicka på 'Slice now'](1_click_slice_now.png)
 
 
+
+
 Nu är slicingen klart.
 
 ![Slicingen är klart](1_slicing_done.png)
+
 
 
 ## 1.4. Att skriva ut
@@ -88,10 +104,14 @@ i högerneret hörnet.
 ![Klick på 'Send to print'](1_send_to_printer.png)
 
 
+
+
 Du blir frågat hur skrivaren måste kallas din 3D tryck.
 Klicka på 'Upload and print' ('ladda up och skriv ut').
 
 ![Klicka på 'Upload and print'](send_gcode_to_printer_host.png)
+
+
 
 
 Nu bör 3D skrivaren sätter sig igång.
@@ -108,11 +128,14 @@ Hur länge ska din 3D tryck tar?
 ![Skärm av skrivaren](1_printer_screen.jpg)
 
 
+
+
 På värmebädden (plattan där skriving tar plats på),
 på framsida finns en symbol av en fingeravtryck.
 Vad tror du att den betyder?
 
 ![Värmebädden har symboler av fingeravtryckar](1_heating_bed_front_left.jpg)
+
 
 
 ## 1.6. Efter utskriving
