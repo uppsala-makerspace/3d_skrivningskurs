@@ -268,9 +268,8 @@ Tellus   |`10.0.1.103`
 Mars     |`10.0.1.104`
 Uranus   |`10.0.1.105`
 
-```text
-PICTURE OF TYPING 10.0329842 IN BROWSER
-```
+
+![Type the URL of your printer in the browser](1_type_url_in_browser.png)
 
 === "🇸🇪"
 
@@ -280,9 +279,7 @@ PICTURE OF TYPING 10.0329842 IN BROWSER
 
     You will now see the website of your favorite 3D printer.
 
-```text
-SCREENSHOT OF WEBSITE
-```
+![Merkurius homepage](1_merkurius_homepage.png)
 
 === "🇸🇪"
 
@@ -295,9 +292,8 @@ SCREENSHOT OF WEBSITE
     At the website of your favorite 3D printer,
     you can see how long the print took.
 
-```text
-SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
-```
+
+![Mainsail shows the print time](mainsail_1124_show_print_time_annotated.png)
 
 === "🇸🇪"
 
@@ -313,9 +309,7 @@ SCREENSHOT OF WEBSITE WITH ANNOTATED TIME
 
     It is shown here:
 
-```text
-SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
-```
+![Mainsail shows the temperatures](mainsail_1145_cool_down_annotated.png)
 
 === "🇸🇪"
 
@@ -337,9 +331,7 @@ SCREENSHOT OF WEBSITE WITH ANNOTATED HEAT BED TEMPERATURE
     When the 3D print is loose, use **a tool** to push it off the 3D printer
     (i.e. do **not** use your hands).
 
-```text
-PICTURE OF scraping the cube.
-```
+![Att skrapa kuben](1_scraping_cube.jpg)
 
 === "🇸🇪"
 
